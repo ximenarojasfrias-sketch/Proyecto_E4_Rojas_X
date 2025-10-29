@@ -998,6 +998,10 @@ El análisis conjunto de los registros de *Phoca vitulina* y *Phoca vitulina ric
 
 Estos hallazgos son fundamentales para comprender la ecología de ambas especies, identificar áreas prioritarias de conservación y anticipar posibles desplazamientos derivados del cambio climático. Además, el uso de herramientas analíticas como R permite visualizar y sintetizar grandes volúmenes de datos de manera reproducible, fortaleciendo la toma de decisiones basada en evidencia científica. En conjunto, este enfoque multidimensional contribuye al monitoreo efectivo de mamíferos marinos y a la protección de ecosistemas costeros vulnerables.
 
+# **Video Exposición**
+
+<https://drive.google.com/file/d/12vHC2OdhU-5u1UZAcsxj1Y9lSoeWIkdx/view?usp=sharing>
+
 # **Referencias**
 
 -   Beckerman, A. P., Childs, D. Z., & Petchey, O. L. (2017). Getting started with R: An introduction for biologists (2nd ed.). Oxford University Press.
